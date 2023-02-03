@@ -3,9 +3,9 @@
 
 ## Repository Contents
 
-* [**/Documents**]() - This directory contains Datasheets of the components
-* [**/Design Data**]() - This directory contains Schematic and Dimension files
-* [**/Mechanical Data**]() - This directory contains 3D and STEP files
+* [**/Documents**](https://github.com/sbcshop/Pitalk_2G_HAT_Hardware/tree/main/Documents) - This directory contains Datasheets of the components
+* [**/Design Data**](https://github.com/sbcshop/Pitalk_2G_HAT_Hardware/tree/main/Design_Data) - This directory contains Schematic and Dimension files
+* [**/Mechanical Data**](https://github.com/sbcshop/Pitalk_2G_HAT_Hardware/tree/main/Mechanical_Data) - This directory contains 3D and STEP files
 
 ## Documentation
 
